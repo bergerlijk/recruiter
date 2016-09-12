@@ -1,0 +1,6 @@
+{
+	"dbPath": "mongodb://52.87.81.33:27017/YS",
+	"port": 8000,
+    "TokenExpiry": 900000,
+    "retryCount": 1
+}

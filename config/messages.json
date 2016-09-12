@@ -1,0 +1,12 @@
+{
+	"statusCodes": {
+		"703": "InvalidCredentials",
+        "704": "UnknownUser"
+	},
+    "statusMessages": {
+        "703": "Invalid Username or PIN",
+        "704": "User with the provided information does not exist."
+	},
+    "successStatus": 200,
+    "logoutSuccess": "Successfully logged out"
+}
